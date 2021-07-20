@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pokehub/static/css/main.4338f16d.chunk.css",
+    "main.js": "/Pokehub/static/js/main.27862408.chunk.js",
+    "main.js.map": "/Pokehub/static/js/main.27862408.chunk.js.map",
+    "runtime-main.js": "/Pokehub/static/js/runtime-main.800d09fd.js",
+    "runtime-main.js.map": "/Pokehub/static/js/runtime-main.800d09fd.js.map",
+    "static/js/2.969ca54c.chunk.js": "/Pokehub/static/js/2.969ca54c.chunk.js",
+    "static/js/2.969ca54c.chunk.js.map": "/Pokehub/static/js/2.969ca54c.chunk.js.map",
+    "index.html": "/Pokehub/index.html",
+    "static/css/main.4338f16d.chunk.css.map": "/Pokehub/static/css/main.4338f16d.chunk.css.map",
+    "static/js/2.969ca54c.chunk.js.LICENSE.txt": "/Pokehub/static/js/2.969ca54c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.800d09fd.js",
+    "static/js/2.969ca54c.chunk.js",
+    "static/css/main.4338f16d.chunk.css",
+    "static/js/main.27862408.chunk.js"
+  ]
+}
